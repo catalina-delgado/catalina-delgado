@@ -1,5 +1,5 @@
 ### 💫 About Me:
-¡Hi! I invite you to discover my repositories on data analytics, classification models, numerical methods and web design.
+¡Hi! I invite you to discover my repositories on deep learning models, frameworks and automation.
 
 
 ### Tech Stack:
